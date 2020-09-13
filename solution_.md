@@ -20,4 +20,4 @@
 
   Seems like more students amounts to more beers?
 
-  ![Plot](D:\Levien\Documenten\Documenten voor de Uni\M1.1. Seminars of Computational Science\Assignment2\Plotje2.jpg)
+  ![Plot](CorrelationPlot.jpg)
